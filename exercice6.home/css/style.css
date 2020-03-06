@@ -1,0 +1,40 @@
+body{
+    font-family: sans sérif;
+
+}
+h1{
+    text-align: left;
+    color:  #d85a6f;
+}
+h2+a{
+    text-decoration: #7c57be;
+}
+a:hover{
+    background-color:  #ff5e5e;
+    border-style: dashed;
+}
+#blockparent{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    text-align: center;
+    float: left;
+}
+.block{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    background-image: url(../images/background_block.jpg);
+    display: inline-block;
+    border-radius: 6px white solid;
+}
+.croix{
+    color: red;
+    position: absolute;
+    top: 300px;
+    left: ;
+
+}
+h1,h2{
+    font-family: Emilys Candy, cursive;
+}

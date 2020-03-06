@@ -1,0 +1,33 @@
+EXERCICE PRATIQUE : Le monde des sucreries
+
+Reproduire la page html montré en screen (s'aider des positionnement pour placer la croix).
+
+- code couleur h1 : #d85a6f
+- code couleur h2 & a : #7c57be
+- couleur croix : red
+- police h1 et h2 sur google font : Emilys Candy, cursive
+- police body : sans sérif
+- background couleur lien : #ff5e5e
+
+
+TEXTE :
+
+Le monde des sucreries
+
+Guimauves
+La guimauve, ou pâte de guimauve, est faite de sucre, de blanc d'œufs et de gélatine.
+
+Oursons
+Les Ours d'or sont constitués de sirop de glucose, de sucre, d'amidon, de dextrose ect...
+
+Sucettes
+Une sucette ou suçon au Canada francophone est une confiserie fixée au bout d’un bâtonnet.
+
+Réglisses
+La réglisse ou réglisse de la sous-famille des Faboideae...
+
+Câbles acides
+Fourrés d'une pâte sucrée, enrobés de sucre acidulé, et accompagnés d'un savoureux parfum fruité..
+
+Chewing Gum
+Le chewing-gum, gomme à mâcher, pâte à mâcher, chique, chiclette, ou gomme..
